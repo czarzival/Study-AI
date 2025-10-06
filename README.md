@@ -54,3 +54,7 @@ Built with **React** and **Supabase**, Study-AI saves time, enhances study effic
 | **Authentication** | Supabase Auth (JWT-based)                                             |
 | **Database**       | Supabase PostgreSQL (Tables: users, documents, notes, flashcards)     |
 
+<img width="2828" height="1281" alt="Screenshot 2025-10-06 173807" src="https://github.com/user-attachments/assets/2bd640ef-3066-4ce7-90ce-35aa72780356" />
+<img width="2855" height="1547" alt="Screenshot 2025-10-06 173906" src="https://github.com/user-attachments/assets/7de12d80-ef31-486c-9fc8-e9a9a6f30bfa" />
+<img width="2868" height="1531" alt="Screenshot 2025-10-06 173849" src="https://github.com/user-attachments/assets/bcc0308b-a1a2-45db-8237-b25b2d8a323b" />
+
