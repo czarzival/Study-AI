@@ -1,0 +1,4 @@
+project_id = "xoamnmuvsdflulhfuvqe"
+
+[functions.generate-notes]
+verify_jwt = true
